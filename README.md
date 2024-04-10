@@ -1,4 +1,5 @@
 MegaVentory Integration Demo
+
 Overview
 This project is a demonstration of integrating with the MegaVentory API using C# and .NET. 
 It showcases various functionalities such as inserting products, clients, suppliers, inventory locations, establishing relationships, updating product availability, and managing stock alert levels.
